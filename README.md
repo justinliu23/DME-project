@@ -1,1 +1,1 @@
-# Image recognition of DME eye disease from patient retinal scans
+# Image Recognition of Diabetic Macular Edema from Retinal Scans
